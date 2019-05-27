@@ -1,0 +1,11 @@
+{
+  "name": "the_cat_wrote_it",
+  "version": "1.0.0",
+  "description": "DDD 'The cat wrote it' team, API server ",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gwonsungjun",
+  "license": "ISC"
+}
